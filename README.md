@@ -11,6 +11,8 @@ str(): representa qualquer conjunto de caracteres, desde que estejam entre aspas
 type():  é uma função embutida que retorna o tipo de um objeto.
 char(): exibe um caractere.
 input: é usada para receber entrada do usuário a partir do teclado.
+if: permite avaliar uma expressão e, se o resultado for verdadeiro, será executada uma determinada ação.
+else: significa "se não"
 
 
 
