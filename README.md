@@ -16,7 +16,11 @@ if: permite avaliar uma expressão e, se o resultado for verdadeiro, será execu
 else: significa "se não". <br>
 elif: avalia as expressões intermediárias antes do comando else. <br>
 for (para): quando sabemos quantas vezes o laço de programação deverá ser executado. <br>
-while (enquanto): executa um determinado conjunto de instruções, enquanto a condição verificada no início permanecer verdadeira.
+while (enquanto): executa um determinado conjunto de instruções, enquanto a condição verificada no início permanecer verdadeira. <br>
+open(): é utilizado para a abertura de arquivos. <br>
+write(): utilizada para gravar informações em um arquivo existente. <br>
+close(): encerrar o arquivo após sua utilização. <br>
+read():  realiza a leitura de todo conteúdo do arquivo. <br>
 <br>
 <br>
 
