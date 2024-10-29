@@ -1,6 +1,6 @@
 # Python <br>
 Aprendendo a programar e python
-Comecei um curso de iniciante em programação python pela Fundação Bradesco. Vou deixar registrado abaixo para que cada comando é utilizado para poder orientar e ter mais facilidade ao desenvolver um programa, coisa que eu queria que alguém tivesse feito quando estava aprendendo a programar em c# kkkk.
+Comecei um curso de iniciante em programação python pela Fundação Bradesco. Vou deixar registrado abaixo para que cada comando é utilizado para poder orientar e ter mais facilidade ao desenvolver um programa, as anotações das coisas mais simpres são as que mais me ajudam.
 <br>
 
 Comandos:<br>
