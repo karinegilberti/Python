@@ -21,6 +21,7 @@ open(): é utilizado para a abertura de arquivos. <br>
 write(): utilizada para gravar informações em um arquivo existente. <br>
 close(): encerrar o arquivo após sua utilização. <br>
 read():  realiza a leitura de todo conteúdo do arquivo. <br>
+def(): para definir uma função
 <br>
 <br>
 
